@@ -37,10 +37,9 @@ Periodo: enero 2025 – octubre 2026. 300 pedidos y 40 clientes.
 | Ticket medio | 303,17 € por pedido (sin cancelados). |
 
 ## Recomendaciones
-- [Propuesta: impulsar Periféricos y Hogar inteligente, que dejan más margen por cada euro vendido.]
-- [Propuesta: revisar costes y precios de Informática, que factura más pero con menor margen porcentual.]
-- [Propuesta: con tan pocos pedidos al mes, no planificar compras solo con estos crecimientos; haría falta más histórico.]
-
+- Impulsar Periféricos y Hogar inteligente: dejan más margen por cada euro vendido (56,1 % y 55,5 %).
+- Revisar costes y precios de Informática: es la categoría que más factura, pero la de menor margen porcentual (31,7 %).
+- No planificar compras solo con el crecimiento mensual: con tan pocos pedidos al mes, las cifras son muy volátiles y haría falta más histórico.
 ## Supuestos y limitaciones
 - Los descuentos NULL se tratan como 0.
 - Se excluyen los pedidos cancelados.
