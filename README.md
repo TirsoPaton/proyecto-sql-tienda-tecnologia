@@ -2,7 +2,6 @@
 
 Proyecto de portfolio: respondo con **SQL (PostgreSQL)** a preguntas de negocio de una tienda ficticia y presento los resultados en un **dashboard de Power BI**.
 
-**Estado:** completado (SQL y Power BI). Siguiente proyecto: análisis exploratorio con Python.
 
 ![Dashboard de ventas y rentabilidad](img/dashboard.png)
 
